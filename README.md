@@ -6,4 +6,4 @@ https://raw.githubusercontent.com/Danialrostamani/sing-box-rules/main/ads-merged
 
 Iran-Direct :
 
-https://raw.githubusercontent.com/Danialrostamani/sing-box-rules/main/ads-merged.srs
+https://raw.githubusercontent.com/Danialrostamani/sing-box-rules/main/iran-all.srs
